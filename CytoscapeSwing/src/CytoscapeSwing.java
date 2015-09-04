@@ -1,13 +1,14 @@
 import java.net.URL;
 
+import javax.swing.JFrame;
+import javax.swing.UIManager;
+
 import javafx.application.Platform;
 import javafx.embed.swing.JFXPanel;
 import javafx.scene.Group;
 import javafx.scene.Scene;
 import javafx.scene.web.WebEngine;
 import javafx.scene.web.WebView;
-import javax.swing.JFrame;
-import javax.swing.UIManager;
 
 /*
  * @author Dhruv
